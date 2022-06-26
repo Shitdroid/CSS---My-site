@@ -1,0 +1,116 @@
+#copyright {
+    color: #EAF6F6;
+    font-weight: bold;
+    margin: 0.5em;
+}
+#contact-subtitle{
+    margin: 0px 0px 20px 0px;
+}
+.top{
+    background-color:#EAF6F6;
+    position:relative;
+    padding-top: 150px;
+}
+.skill-row{
+    width:50%;
+    margin: 60px auto 70px;
+    text-align: left;
+    line-height: 2;
+}
+.skills{
+    margin: 60px 0 0;
+}
+.mid{
+    padding: 0px 0 50px 0;
+}
+.bottom{
+    background-color: #66BFBF;
+    padding: 30px 0px 5px 0px;
+    line-height: 2.5;
+}
+.top_cloud{
+    position:absolute;
+    right: 400px;
+    top: 100px;
+}
+.bottom_cloud{
+    position:absolute;
+    left:400px;
+    bottom: 300px;
+}
+.dp{
+    width: 40%;
+}
+.profile{
+    padding: 70px;
+    width: 35%;
+    margin: auto;
+}
+.skill_pic{
+    width: 23%;
+    float: left;
+    margin-right:30px ;
+}
+.slack_pic{
+    width: 21%;
+    float: right;
+    margin-left: 30px;
+}
+.btn{
+    background-image: linear-gradient(#11cdd4, #11999e);
+    display: inline-block;
+    color: #EAF6F6;
+    padding: 10px;
+    margin: 25px 0 0 0;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.btn:hover{
+    background-image: linear-gradient(#30e3cb, #2bc4ad);
+}
+.footer-link{
+    color: #11999E;
+    display:inline-block;
+    width:100px;
+    font-weight: bold;
+    text-decoration: none;
+}
+body{
+    margin:0;
+    text-align: center;
+    font-family:
+    Arial, Helvetica, sans-serif;
+}
+h1{
+    margin: 50px auto 0;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    font-family: 'Dancing Script', cursive;
+}
+h2{
+    font-size: 2.5rem;
+    font-family: cursive;
+    color: #66BFBF;
+    font-weight: normal;
+    /* margin-top: 0; */
+}
+h3{
+    /* font-family: 'Caveat', cursive; */
+    font-family: 'Nunito', sans-serif;
+    color: #11999E;
+    margin: 0;
+}
+a{
+    color: #11999E;
+    font-weight: bold;
+}
+p{
+    font-family: 'Nunito', sans-serif;
+    margin: 0.5em 0 0 0;
+}
+hr{
+    border-style: none none dotted;
+    width: 10%;
+    color: #CAC6C6;
+    border-width: 7px;
+}
